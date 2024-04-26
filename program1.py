@@ -18,13 +18,3 @@ def smallest_missing_positive_integer(nums: List[int]) -> int:
             return i
 
 
-
-
-
-    
-
-
-
-  
->>>>>>> b8d9feb9e1afd54b423faee0184a3eedd78c8f10
-
