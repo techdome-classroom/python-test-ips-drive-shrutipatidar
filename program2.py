@@ -15,6 +15,7 @@ def longest_substring(s: str) -> int:
         return max_length
 
     # Call the helper function and return its result
+    
     return longest_substring_without_repeating(s)
 
 
